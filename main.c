@@ -16,13 +16,13 @@ int main (){
     
     short Salas_de_aula = 12;
     
-    printf("A média de alunos por sala: %.2f \n", calcular_media(Alunos_Matriculados, Salas_de_aula));
+    printf("A media de alunos por sala: %.2f \n", calcular_media(Alunos_Matriculados, Salas_de_aula));
     
     //O número total de livros por aluno.
     
     int Livros_Na_Biblioteca = 1500;
     
-    printf("A média de livros por alunos: %.2f \n", calcular_media(Livros_Na_Biblioteca, Alunos_Matriculados));
+    printf("A media de livros por alunos: %.2f \n", calcular_media(Livros_Na_Biblioteca, Alunos_Matriculados));
     
     //Um aviso informando se a escola ainda possui vagas abertas.
     
