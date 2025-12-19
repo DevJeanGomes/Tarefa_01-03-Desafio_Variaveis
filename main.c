@@ -28,7 +28,7 @@ int main (){
     
     bool Tem_Vagas = true;
     
-    printf("Vagas Abertas: %s", Tem_Vagas ? "true" : "false \n");
+    printf("Vagas Abertas: %s \n", Tem_Vagas ? "true" : "false");
 
     system("pause");
 
